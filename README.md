@@ -1,7 +1,7 @@
 # Machine-Learning-Internship-Tasks-SkillCraft-Technology
 This repository contains multiple Machine Learning projects developed using Python and Jupyter Notebook. Each project focuses on a different ML technique and demonstrates the complete workflow, including data preprocessing, visualization, model building, and evaluation.
 
-1. House Price Prediction using Linear Regression
+# House Price Prediction using Linear Regression
 ## Project Description
   This project predicts house prices using machine learning.
 ## Features Used
@@ -22,7 +22,7 @@ This repository contains multiple Machine Learning projects developed using Pyth
 * R2 score
 * Graphs
 
-2. Mall Customer Segmentation using K-Means Clustering
+# Mall Customer Segmentation using K-Means Clustering
 ## Overview
 This project uses Machine Learning clustering techniques to segment mall customers based on their annual income and spending score.
 The K-Means Clustering algorithm is used to divide customers into different groups for better business understanding and marketing strategies.
@@ -51,7 +51,7 @@ Spending Score
 ## Output
 Customers are divided into different clusters based on spending behavior.
 
-3. Dogs vs Cats Image Classification using SVM
+# Dogs vs Cats Image Classification using SVM
 ## Project Overview
 This project implements a Support Vector Machine (SVM) model to classify images of cats and dogs using the Kaggle Dogs vs Cats dataset.
 The model processes image data, extracts features, and performs binary classification to determine whether an image contains a cat or a dog.
@@ -95,7 +95,36 @@ Model training and testing
 Accuracy evaluation
 Prediction on new images
 
+# Hand Gesture Recognition System
+A Machine Learning / Deep Learning project that identifies and classifies different hand gestures from image or video data. This system enables intuitive human-computer interaction and gesture-based control systems.
+
+## Project Overview
+The Hand Gesture Recognition System is designed to recognize various hand gestures using computer vision and deep learning techniques. The model processes image/video input and predicts the corresponding hand gesture class accurately.
+This project can be used in:
+- Human-Computer Interaction (HCI)
+- Virtual Control Systems
+- Smart Devices
+- Gaming Applications
+- Sign Language Recognition
+- Touchless Interfaces
+
+## Features
+- Real-time hand gesture detection
+- Image and video-based gesture recognition
+- Deep Learning based classification
+- User-friendly implementation
+- High accuracy gesture prediction
+
+##  Technologies Used
+- Python
+- OpenCV
+- NumPy
+- TensorFlow / Keras
+- Matplotlib
+- Scikit-learn
+
+##  Dataset
+The dataset contains different hand gesture images used for training and testing the model.
 
 ## Author
 Aznan Shah
-
